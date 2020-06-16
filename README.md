@@ -3,7 +3,5 @@ First
 
 Hello,
 
-This is the first file in the first Git repository !!
-
-Thank you !
+This is the edited one file.
 
